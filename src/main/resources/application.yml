@@ -1,0 +1,3 @@
+server:
+  port: 1990
+spring:  h2:    console:      enabled: true
